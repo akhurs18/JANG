@@ -9,7 +9,7 @@ public class Weapons : MonoBehaviour {
 	public Rigidbody2D bulletPrefab;
 	public GameObject spawnPoint;
 	public float speed;
-	public float fireRate = 2.0f;
+	public float fireRate = 3.0f;
 	private float lastShot = 0.0f;
 
 	// Update is called once per frame
